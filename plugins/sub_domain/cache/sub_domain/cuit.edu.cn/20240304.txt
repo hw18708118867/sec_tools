@@ -1,0 +1,12 @@
+jxjypt.cuit.edu.cn
+*.cuit.edu.cn
+sso.cuit.edu.cn
+jxpt.cuit.edu.cn
+gdcx.cuit.edu.cn
+cuit.edu.cn
+kczx.cuit.edu.cn
+jwc.cuit.edu.cn
+xsc.cuit.edu.cn
+oa.cuit.edu.cn
+app.cuit.edu.cn
+jhcwc.cuit.edu.cn

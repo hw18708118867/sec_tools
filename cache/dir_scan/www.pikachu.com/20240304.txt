@@ -1,0 +1,4 @@
+¡¾*¡¿http://www.pikachu.com/index.php¡¾200¡¿
+¡¾*¡¿http://www.pikachu.com/test/¡¾403¡¿
+¡¾*¡¿http://www.pikachu.com/inc/¡¾403¡¿
+¡¾*¡¿http://www.pikachu.com/install.php¡¾200¡¿
